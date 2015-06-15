@@ -1,10 +1,10 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 
 public class alienContoller : MonoBehaviour
 {
 
-		//45. set a public variable for speed
+		// set a public variable for speed
 		public float obstacleSpeed;
 
 		// Use this for initialization
@@ -17,11 +17,11 @@ public class alienContoller : MonoBehaviour
 		void Update ()
 		{
 		
-				//14. move the obstacle to the left
-				//46. replace the 6f with obstacleSpeed and set a different speed in the 2 levels
+				// move the obstacle to the left
+				// obstacleSpeed 
 				transform.Translate (new Vector3 (-1f, 0f, 0f) * 6f * Time.deltaTime);
 		
-				//15. if the x position is less than -7, delete the obstacle
+				// if the x position is less than -7, delete the obstacle
 				if (transform.position.x < -7) {
 						Destroy (this.gameObject);
 				}
