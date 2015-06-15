@@ -1,4 +1,4 @@
-﻿
+
 using UnityEngine;
 using System.Collections;
 
@@ -6,7 +6,7 @@ public class playerContoller : MonoBehaviour
 {
 
 	
-		//2 create a public variable for the GUI skin
+		// create a public variable for the GUI skin
 		public GUISkin style;
 	
 		// create a public variable for the number of lives
@@ -150,7 +150,7 @@ public class playerContoller : MonoBehaviour
 				currentTime = Time.time - startTime;
 
 		
-				// After 30 seconds,in level1 go to win window
+				// After 30 seconds,in level1 go to level2 window
 				if (currentTime > 30 && Application.loadedLevelName == "level1") {
 					//43. Load win window
 					Application.LoadLevel ("level2");
@@ -175,7 +175,7 @@ public class playerContoller : MonoBehaviour
 				if (Input.GetMouseButtonDown (0)) {
 			
 			
-						//5.jump the box
+						//jump 
 						StartCoroutine ("jumpBox");
 			
 			
