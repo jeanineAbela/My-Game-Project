@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 
 public class gameover : MonoBehaviour
@@ -13,7 +13,7 @@ public class gameover : MonoBehaviour
 				// add the skin to the gui
 				GUI.skin = style;
 		
-				// create a label with the name of the game
+				// create a label with the game over message
 				GUI.Label (new Rect (Screen.width / 2 - 100f, Screen.height / 2 - 50f, 200f, 100f), "GAME OVER!");
 		
 				//load the main game
