@@ -1,28 +1,28 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 
 public class alienGeneratorController : MonoBehaviour
 {
 
-		//16. public gameobject variable for obstacle
+		// public gameobject variable for obstacle
 		public GameObject[] obstacles;
 	
 	
-		//17. declare a variable for the time gap
+		// declare a variable for the time gap
 		float timeGap;
 
-		//18. create a coroutine to generate obstacles
+		// create a coroutine to generate obstacles
 		IEnumerator generateObstacles ()
 		{
-				//19. the coroutine runs forever
+				// the coroutine runs forever
 				while (true) {
-						//21. Random time gap
+						// Random time gap
 						timeGap = Random.Range (1f, 3f);
 			
-						//49. create an obstacle
+						// create an obstacle
 						int obstacleChooser = (int)Mathf.Floor (Random.Range (0f, 2f));
 			
-						//50.
+						//
 						Debug.Log (obstacleChooser);
 
 						float height = 0f;
@@ -36,7 +36,7 @@ public class alienGeneratorController : MonoBehaviour
 
 						Instantiate (obstacles [obstacleChooser], new Vector3 (7f, height, 0f), Quaternion.identity);
 			
-						//20. has a random time gap
+						// has a random time gap
 						yield return new WaitForSeconds (timeGap);
 				}
 		}
@@ -45,7 +45,7 @@ public class alienGeneratorController : MonoBehaviour
 		// Use this for initialization
 		void Start ()
 		{
-				//23. start the coroutine that generates the obstacles immediately
+				// start the coroutine that generates the obstacles immediately
 				StartCoroutine ("generateObstacles");
 		}
 	
