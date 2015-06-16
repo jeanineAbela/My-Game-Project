@@ -20,14 +20,14 @@ public class menu : MonoBehaviour {
 		
 		//load the main game
 		if (GUI.Button (new Rect (Screen.width / 2 - 100f, Screen.height / 2 + 35f, 200f, 50f), "PLAY")) {
-			//Load the main scene which is 0 in the BUILD SETTINGS			
+			//Load the main menu scene which is 1 in the BUILD SETTINGS			
 			Application.LoadLevel (1);
 		}
 
-		//load the main game
-		if (GUI.Button (new Rect (Screen.width / 2 - 100f, Screen.height / 2 + 80f, 200f, 50f), "QUIT")) {
-			//Load the main scene which is 0 in the BUILD SETTINGS			
-			Application.Quit();
+		//load the how to play scene
+		if (GUI.Button (new Rect (Screen.width / 2 - 100f, Screen.height / 2 + 90f, 200f, 50f), "How to Play")) {
+			//Load the how to play scene which is 6 in the BUILD SETTINGS			
+			Application.LoadLevel(6);
 		}
 		
 		

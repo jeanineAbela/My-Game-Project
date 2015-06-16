@@ -49,6 +49,7 @@
      <Compile Include="Assets\code\alienContoller.cs" />
      <Compile Include="Assets\code\alienGeneratorController.cs" />
      <Compile Include="Assets\code\gameover.cs" />
+     <Compile Include="Assets\code\howToPlay.cs" />
      <Compile Include="Assets\code\menu.cs" />
      <Compile Include="Assets\code\playerContoller.cs" />
      <Compile Include="Assets\code\win.cs" />
