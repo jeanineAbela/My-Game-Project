@@ -1,0 +1,178 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: Mobile Intel(R) 4 Series Express Chipset Family (ID=0x2a42)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\User\Documents\GitHub\My-Game-Project\alien\Penguin Game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\User\Documents\GitHub\My-Game-Project\alien\Penguin Game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\GitHub\My-Game-Project\alien\Penguin Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\User\Documents\GitHub\My-Game-Project\alien\Penguin Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\GitHub\My-Game-Project\alien\Penguin Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\User\Documents\GitHub\My-Game-Project\alien\Penguin Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.445 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\User\Documents\GitHub\My-Game-Project\alien\Penguin Game_Data\Managed\System.Core.dll (this message is harmless)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2562.278076 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 200.
+Total: 141.285904 ms (FindLiveObjects: 0.047416 ms CreateObjectMapping: 0.037151 ms MarkObjects: 141.157837 ms  DeleteObjects: 0.032751 ms)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.115508 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 204.
+Total: 0.456077 ms (FindLiveObjects: 0.050838 ms CreateObjectMapping: 0.027863 ms MarkObjects: 0.344135 ms  DeleteObjects: 0.022974 ms)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1713)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.207897 ms
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 165.
+Total: 0.766973 ms (FindLiveObjects: 0.043505 ms CreateObjectMapping: 0.029329 ms MarkObjects: 0.382753 ms  DeleteObjects: 0.300630 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.688271 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 169.
+Total: 0.494695 ms (FindLiveObjects: 0.039595 ms CreateObjectMapping: 0.027374 ms MarkObjects: 0.398884 ms  DeleteObjects: 0.018086 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.415016 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 200.
+Total: 0.360756 ms (FindLiveObjects: 0.038128 ms CreateObjectMapping: 0.018086 ms MarkObjects: 0.275699 ms  DeleteObjects: 0.019553 ms)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1713)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.506916 ms
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 165.
+Total: 0.527935 ms (FindLiveObjects: 0.048882 ms CreateObjectMapping: 0.018086 ms MarkObjects: 0.261034 ms  DeleteObjects: 0.191132 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.213763 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 169.
+Total: 0.507405 ms (FindLiveObjects: 0.041550 ms CreateObjectMapping: 0.028352 ms MarkObjects: 0.411105 ms  DeleteObjects: 0.016620 ms)
+

@@ -1,9 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\code\howToPlay.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="F:\alien\Assets\code\playerContoller.cs">
     <Files>
-      <File FileName="Assets\code\howToPlay.cs" Line="19" Column="33" />
-      <File FileName="F:\alien\Assets\code\menu.cs" Line="17" Column="3" />
+      <File FileName="Assets\code\howToPlay.cs" Line="1" Column="1" />
+      <File FileName="Assets\code\menu.cs" Line="5" Column="36" />
+      <File FileName="F:\alien\Assets\code\playerContoller.cs" Line="76" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
